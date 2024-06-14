@@ -1,0 +1,2 @@
+link dataset     = https://www.kaggle.com/datasets/bmadushanirodrigo/fracture-multi-region-x-ray-data?select=Bone_Fracture_Binary_Classification
+link huggingface = https://huggingface.co/spaces/Arie0809/P2G7_Ari
